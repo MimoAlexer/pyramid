@@ -1,6 +1,6 @@
 # Pyramid
 
-A small C# console program that prints a 5 × 5 square of stars using nested loops.
+A small C# console program that prints a pyramid of stars using nested loops.
 
 ## Requirements
 
@@ -15,9 +15,9 @@ dotnet run
 ## Output
 
 ```text
-*****
-*****
-*****
-*****
-*****
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
 ```
